@@ -1,1 +1,8 @@
-token: "444dd44"
+token: ""
+
+logs.channel: ""
+
+mysql.user: ""
+mysql.password: ""
+mysql.host: ""
+mysql.database: ""
